@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 
+  div.spreadEvenlyH > div {
+    display: inline-block;
+    zoom: 1; /* Trigger hasLayout */
+    width: 50%;
+    text-align: center;
+}
+
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -33,13 +40,13 @@
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
-      <section>
-        <a href="/README.html">Accueil</a><p/>
-        <a href="/AProposDeNous/AProposDeNous.html">À propos de nous</a><p/>
-        <a href="/Services/Services.html">Services</a><p/>
-        <a href="/Coordonnees/Coordonnees.html">Coordonnées</a><p/>
-        <a href="/English/English.html">English</a><p/>
-      </section>
+      <div class="spreadEvenlyH">
+        <div><a href="/">Accueil</a></div>
+        <div><a href="/AProposDeNous/AProposDeNous.html">À propos de nous</a></div>
+        <div><a href="/Services/Services.html">Services</a></div>
+        <div><a href="/Coordonnees/Coordonnees.html">Coordonnées</a></div>
+        <div><a href="/English/English.html">English</a></div>
+      </div>
       <section id="main_content" class="inner">
         {{ content }}
       </section>
