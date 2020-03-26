@@ -19,3 +19,26 @@ Nous nous engageons à remettre des traductions et des révisions de qualité et
 * Sens des priorités et de l’organisation
 * Souci de la qualité et du détail
 * Professionnelle
+
+# Domaines de spécialisation (traduction et révision)
+
+* Gouvernement fédéral
+** affaires autochtones
+** justice
+** santé
+** défense nationale
+** services frontaliers
+** inspection des aliments
+** anciens combattants
+** agriculture
+** transports
+** pêches et océans
+** industrie
+** emploi et développement
+** affaires étrangères et commerce international
+** ressources
+** sécurité publique
+** environnement
+** etc.
+* Société hypothécaire
+* Autres (mode, économie, gestion, éducation aux médias et littératie numérique, technologies de l'information et des communications, agriculture, environnement, sciences humaines, commissions, enquête sur le tabagisme chez les jeunes, etc.)
