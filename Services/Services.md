@@ -23,7 +23,8 @@ Tous les prix sont en dollars canadiens et n’incluent pas les taxes. Les factu
 
 Pour connaître nos tarifs, veuillez nous faire parvenir les documents à traduire ou à réviser.
 
-# Types de documents (PowerPoint, Word, PDF, Excel)
+# Types de documents 
+PowerPoint, Word, PDF, Excel
 * Rapports
 * Communiqués
 * Études

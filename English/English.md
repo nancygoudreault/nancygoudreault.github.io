@@ -46,7 +46,8 @@ All prices are in Canadian dollars and do not include taxes. Invoices are payabl
 To get a rate, please send us your documents to translate or revise.
 
 
-## Types of documents (PowerPoint, Word, PDF, Excel)
+## Types of documents 
+PowerPoint, Word, PDF, Excel
 * Reports
 * News releases
 * Studies
