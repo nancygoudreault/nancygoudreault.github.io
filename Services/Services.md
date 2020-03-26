@@ -15,7 +15,7 @@ critères suivants :
 * le format du document original.
 
 
-Pour les documents traduits ou révisés en dehors des heures normales d’ouverture (8 h 30 à 16 h 30), le tarif sera majoré en conséquence.
+Pour les documents traduits ou révisés en dehors des heures normales d’ouverture (8 h 30 à 16 h&nbsp;30), le tarif sera majoré en conséquence.
 
 
 Tous les prix sont en dollars canadiens et n’incluent pas les taxes. Les factures sont payables dans un délai de 30 jours.
