@@ -1,18 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 
-  <style>
-  div.spreadEvenlyH > div {
-    display: inline-block;
-    zoom: 1; /* Trigger hasLayout */
-    width: 50%;
-    text-align: center;
-    text-size: 200%;
-    justify-content: space-between;
-  }
-  </style>
-
   <head>
+    <title>Nancy Goudreault, traductrice agréée</title>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
@@ -33,19 +23,6 @@
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
-          <!-- {% if site.show_downloads %}
-            <section id="downloads">
-              <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
-            </section>
-          {% endif %} -->
-          <!-- <div class="spreadEvenlyH">
-            <div><a href="/">Accueil</a></div>
-            <div><a href="/AProposDeNous/AProposDeNous.html">À propos de nous</a></div>
-            <div><a href="/Services/Services.html">Services</a></div>
-            <div><a href="/Coordonnees/Coordonnees.html">Coordonnées</a></div>
-            <div><a href="/English/English.html">English</a></div>
-          </div> -->
           <table>
             <tr>
               <th><a href="/">Accueil</a></th>
@@ -60,13 +37,6 @@
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
-      <!-- <div class="spreadEvenlyH">
-        <div><a href="/">Accueil</a></div>
-        <div><a href="/AProposDeNous/AProposDeNous.html">À propos de nous</a></div>
-        <div><a href="/Services/Services.html">Services</a></div>
-        <div><a href="/Coordonnees/Coordonnees.html">Coordonnées</a></div>
-        <div><a href="/English/English.html">English</a></div>
-      </div> -->
       <section id="main_content" class="inner">
         {{ content }}
       </section>
