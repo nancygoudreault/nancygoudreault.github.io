@@ -8,7 +8,7 @@ We meet established deadlines and respect the confidentiality of your documents.
 We are committed to providing quality translations and revisions and offering you a personalized service.
 
 ## About Nancy Goudreault
-Translator and reviser since 2001
+Translator and revisor since 2001
 * From English to French
 * From French to English (occasionally)
 
@@ -16,7 +16,7 @@ Bachelor’s degree in translation from Laval University (Quebec)
 
 More than 19 years of experience in translation and revision
 
-Certification process from OTTIAQ ongoing
+Certification from OTTIAQ in 2016
 
 Fields of experience (translation and revision)
 * Federal government (Aboriginal, justice, health, defence, border services, food inspection, veterans, agriculture, transport, fisheries and oceans, industry, employment and development, foreign affairs and trade, resources, public safety, environment, etc.)
