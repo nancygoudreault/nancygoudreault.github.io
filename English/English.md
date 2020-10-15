@@ -14,13 +14,14 @@ Translator and reviser since 2001
 
 Bachelor’s degree in translation from Laval University (Quebec)
 
-More than 15 years of experience in translation and revision
+More than 19 years of experience in translation and revision
 
 Certification process from OTTIAQ ongoing
 
 Fields of experience (translation and revision)
 * Federal government (Aboriginal, justice, health, defence, border services, food inspection, veterans, agriculture, transport, fisheries and oceans, industry, employment and development, foreign affairs and trade, resources, public safety, environment, etc.)
-* Mortgage company
+* Mortgage
+* Union
 * Other (fashion, economy, management, digital and media literacy, information and communications technology, agriculture, environment, human sciences, commissions, survey on smoking, etc.)
 
 ## Services
