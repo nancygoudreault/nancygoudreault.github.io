@@ -10,12 +10,12 @@ Nous nous engageons à remettre des traductions et des révisions de qualité et
 
 # À propos de Nancy Goudreault
 
-* Traductrice agréée et réviseure depuis 2001
+* Traductrice et réviseure depuis 2001
   * De l’anglais au français
   * Du français à l’anglais (occasionnellement)
 * Baccalauréat en traduction de l’Université Laval (Québec)
 * Plus de 19 années d’expérience en traduction et révision
-* Agrément de l’OTTIAQ
+* Agrément de l’OTTIAQ depuis 2016
 * Sens des priorités et de l’organisation
 * Souci de la qualité et du détail
 * Professionnelle
@@ -41,5 +41,5 @@ Nous nous engageons à remettre des traductions et des révisions de qualité et
   * Environnement
   * Etc.
 * Société hypothécaire
-
+* Syndicat
 * Autres (mode, économie, gestion, éducation aux médias et littératie numérique, technologies de l'information et des communications, agriculture, environnement, sciences humaines, commissions, enquête sur le tabagisme chez les jeunes, etc.)
