@@ -1,5 +1,5 @@
 # Expérience
-Plus de 19 années d'expérience en traduction et révision
+Plus de 20 années d'expérience en traduction et révision
 
 # Professionnalisme
 
