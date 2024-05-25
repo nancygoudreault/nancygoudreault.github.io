@@ -14,7 +14,7 @@ Translator and revisor since 2001
 
 Bachelor’s degree in translation from Laval University (Quebec)
 
-More than {{ site.time | date: '%Y' | minus:2000 }} years of experience in translation and revision
+More than {{ site.time | date: '%Y' | minus:2001 }} years of experience in translation and revision
 
 Certification from OTTIAQ in 2016
 
