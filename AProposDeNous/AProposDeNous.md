@@ -14,7 +14,7 @@ Nous nous engageons à remettre des traductions et des révisions de qualité et
   * De l’anglais au français
   * Du français à l’anglais (occasionnellement)
 * Baccalauréat en traduction de l’Université Laval (Québec)
-* Plus de 20 années d’expérience en traduction et révision
+* Plus de {{ site.time | date: '%Y' | minus:2000 }} années d’expérience en traduction et révision
 * Agrément de l’OTTIAQ depuis 2016
 * Sens des priorités et de l’organisation
 * Souci de la qualité et du détail
